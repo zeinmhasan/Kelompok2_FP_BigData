@@ -375,3 +375,6 @@ Model **Random Forest Regressor** dilatih menggunakan dataset historis AQI Jakar
 | Day of Week | 0.14% |
 
 ---
+
+## 🖥️ Tampilan
+<img width="1920" height="2107" alt="screencapture-localhost-5000-2026-06-14-00_16_42" src="https://github.com/user-attachments/assets/aeebbfdd-29bc-4ee4-b3d7-35a8a23af4ee" />
