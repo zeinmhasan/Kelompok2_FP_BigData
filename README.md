@@ -22,22 +22,6 @@
 
 
 ---
-## 📋 Daftar Isi
-
-- [Tentang Proyek](#-tentang-proyek)
-- [Arsitektur Sistem](#-arsitektur-sistem)
-- [Fitur Dashboard](#-fitur-dashboard)
-- [Tech Stack](#-tech-stack)
-- [Struktur Folder](#-struktur-folder)
-- [Prasyarat](#-prasyarat)
-- [Cara Menjalankan](#-cara-menjalankan)
-- [Konfigurasi API Key](#-konfigurasi-api-key)
-- [Akses Web UI](#-akses-web-ui)
-- [Pipeline Data](#-pipeline-data)
-- [Model Machine Learning](#-model-machine-learning)
-- [Anggota Kelompok](#-anggota-kelompok)
-
----
 
 ## 🌫️ Tentang Proyek
 
