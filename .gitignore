@@ -1,0 +1,21 @@
+# Python virtual environments
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# Model files (terlalu besar untuk GitHub)
+**/*.pkl
+
+# Environment & secrets
+.env
+
+# Docker volumes & logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+**/.ipynb_checkpoints/

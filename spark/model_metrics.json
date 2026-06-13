@@ -1,0 +1,19 @@
+{
+  "mae": 2.5566,
+  "rmse": 5.9493,
+  "r2": 0.9802,
+  "training_samples": 4428,
+  "test_samples": 1108,
+  "features": [
+    "pm10",
+    "so2",
+    "co",
+    "o3",
+    "no2",
+    "month",
+    "dayofweek",
+    "year",
+    "is_dry_season",
+    "stasiun_enc"
+  ]
+}
