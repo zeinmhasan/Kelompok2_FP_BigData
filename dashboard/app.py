@@ -233,16 +233,8 @@ HTML_TEMPLATE = """
             <h3>AQI Aktual vs ML Prediction</h3>
             <canvas id="mlPredChart"></canvas>
         </div>
-        <div class="card-base chart-box">
-            <h3>Feature Importance</h3>
-            <canvas id="featureChart"></canvas>
-        </div>
     </div>
     <div class="info-row" style="margin-bottom:20px">
-        <div class="card-base traffic-box">
-            <h3>Model Metrics</h3>
-            <div id="model-metrics"></div>
-        </div>
         <div class="card-base table-box">
             <h3>Detail ML Predictions per Stasiun</h3>
             <div class="table-wrapper">
